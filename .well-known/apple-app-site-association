@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "{APPLE_TEAM_ID}.{BUNDLE_ID}",
+				"appID": "5KLC8KLVVV.com.casaeats.casaeats",
 				"paths": [
 					"/records/*"
 				]
@@ -12,12 +12,12 @@
 	},
 	"activitycontinuation": {
 		"apps": [
-			"{APPLE_TEAM_ID}.{BUNDLE_ID}"
+			"5KLC8KLVVV.com.casaeats.casaeats"
 		]
 	},
 	"webcredentials": {
 		"apps": [
-			"{APPLE_TEAM_ID}.{BUNDLE_ID}"
+			"5KLC8KLVVV.com.casaeats.casaeats"
 		]
 	}
 }

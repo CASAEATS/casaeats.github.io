@@ -3,8 +3,10 @@
 		"relation": ["delegate_permission/common.handle_all_urls"],
 		"target": {
 			"namespace": "android_app",
-			"package_name": "{package_name}",
-			"sha256_cert_fingerprints": ["{sha256_cert_fingerprints}"]
+			"package_name": "com.casaeats.casaeats",
+			"sha256_cert_fingerprints": [
+				"BC:43:13:3F:2F:99:FB:8E:D3:B8:1B:91:AE:63:FD:EB:C1:16:EE:94:27:CF:1B:F2:62:2C:60:55:12:BD:D4:50"
+			]
 		}
 	}
 ]
