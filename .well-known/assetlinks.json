@@ -5,7 +5,8 @@
 			"namespace": "android_app",
 			"package_name": "com.casaeats.casaeats",
 			"sha256_cert_fingerprints": [
-				"BC:43:13:3F:2F:99:FB:8E:D3:B8:1B:91:AE:63:FD:EB:C1:16:EE:94:27:CF:1B:F2:62:2C:60:55:12:BD:D4:50"
+				"BC:43:13:3F:2F:99:FB:8E:D3:B8:1B:91:AE:63:FD:EB:C1:16:EE:94:27:CF:1B:F2:62:2C:60:55:12:BD:D4:50",
+				"14:39:B8:CA:81:65:A1:DB:5B:3E:E0:BE:28:7B:20:7F:71:8F:8A:69:1E:7B:7E:CE:57:C0:F8:49:9A:37:AA:D9"
 			]
 		}
 	}
