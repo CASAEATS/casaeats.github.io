@@ -2,7 +2,11 @@
 	"applinks": {
 		"details": [
 			{
-				"appID": "5KLC8KLVVV.com.casaeats.casaeats"
+				"appID": "5KLC8KLVVV.com.casaeats.casaeats",
+				"paths": [
+					"*",
+					"/"
+				]
 			}
 		]
 	},
